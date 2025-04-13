@@ -16,7 +16,8 @@ A simple yet secure authentication system built using Streamlit. This project fe
 
 ## Demo
 
-[Screenshot Coming Soon]
+![image](https://github.com/user-attachments/assets/339da506-01c4-4181-9cc6-8a245ebc46a4)
+
 
 ## Project Structure
 
